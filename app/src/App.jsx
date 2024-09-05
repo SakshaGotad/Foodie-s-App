@@ -144,7 +144,7 @@ align-items: center;
     color: white;
     height: 40px;
     padding:0 10px;
-    font-size: 16px;
+    font-size: 17px;
   }
 }
 
